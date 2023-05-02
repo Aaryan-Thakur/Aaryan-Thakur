@@ -1,5 +1,5 @@
 ### Yo
-- Hello I'm Aaryan
+- I'm Aaryan
                      
 
 ### My Projects
