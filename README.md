@@ -6,7 +6,7 @@
 
 | Name | Description | Front End | Back End | Demo | Repo |
 | --- | --- | --- | --- | --- | --- |
-| Altrack | A basic healthy utility app with in built food recognition system for ease of use | React Native |nodeJS Express PostgreSQL| <a href="https://github.com/Aaryan-Thakur/Altrack/tree/main">Early Stage Screenshots</a> | <a href="https://github.com/Aaryan-Thakur/Altrack/tree/main">Repo</a>|
+| Altrack | A basic healthy utility app with in built food recognition system for ease of use | React Native |nodeJS Express PostgreSQL| <a href="https://www.youtube.com/watch?v=hFX1waIdUag">Static Demo</a> | <a href="https://github.com/Aaryan-Thakur/Altrack/tree/main">Repo</a>|
 | Public Grievance App | A website for users to lodge their Grievances for fast and effective resolutions, first project with backend | HTML CSS | Java Spring Boot MySQL |  <a href="https://www.youtube.com/watch?v=tx0ora2t3Dw">Static Demo</a> and  <a href="https://github.com/Aaryan-Thakur/Public_Grievance_Program/blob/test/README.md">Description</a> |  <a href="https://github.com/Aaryan-Thakur/Public_Grievance_Program">Repo</a>|
 | Simple Notes App | As the name suggests a notes app built on react and django with basic CRUD functionality | React JS | Django sqlite| <a href="https://www.youtube.com/watch?v=RqRzEnYdJ6c">Static Demo</a> |  <a href="https://github.com/Aaryan-Thakur/Notes-App">Repo</a>|
 | Simple Calculator| A simple calculator, first javascript project | HTML CSS Javascirpt | Javascript | <a href="https://aaryan-thakur.github.io/Calculator/">Live Demo</a> | <a href="https://github.com/Aaryan-Thakur/Calculator">Repo</a> |
